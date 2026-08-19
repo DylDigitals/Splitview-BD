@@ -1,0 +1,14 @@
+{
+  "name": "SplitView",
+  "version": "0.1.103",
+  "description": "A BetterDiscord plugin that pins a Discord channel or thread in a persistent docked or floating SplitView pane.",
+  "author": "SplitView Contributors",
+  "license": "MIT",
+  "main": "SplitView.plugin.js",
+  "source": "https://github.com/DylDigitals/Splitview-BD",
+  "updateUrl": "https://raw.githubusercontent.com/DylDigitals/Splitview-BD/main/SplitView.plugin.js",
+  "betterdiscord": {
+    "plugin": true,
+    "install": "Drag SplitView.plugin.js into your BetterDiscord plugins folder."
+  }
+}
